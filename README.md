@@ -1,5 +1,6 @@
-# EX-1 :  Implementation-of-SVM-For-Spam-Mail-Detection
-
+# EX-11 :  Implementation-of-SVM-For-Spam-Mail-Detection
+### Name : R.Jayasree
+### R.NO : 212223040074
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 
