@@ -61,28 +61,18 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 ```
 ## Output:
-## Encoding:
-![image](https://github.com/harini1006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/113497405/ed87456c-9dd8-418d-a960-1abad11477f2)
-
-
-## Head():
-![image](https://github.com/harini1006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/113497405/8e2c3fec-2fe3-40c3-923a-1a1c3719e734)
-
-
-## Info():
-![image](https://github.com/harini1006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/113497405/b48518c5-c983-44d3-9cc2-14924033aa91)
-
-
-## isnull().sum():
-![image](https://github.com/harini1006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/113497405/50754f89-e886-48c3-a285-44b76317b605)
-
-
-## Prediction of y:
-![image](https://github.com/harini1006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/113497405/8f3a2d63-9aa6-4da2-95c4-d53b87fde998)
-
-
-## Accuracy:
-![image](https://github.com/harini1006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/113497405/d1dcce16-dc32-4ec2-a042-ce25bee461da)
+## Dataset:
+![alt text](output/Dataset.png)
+## Train_Test:
+![alt text](output/train_test.png)
+## y_pred
+![alt text](output/y_pred.png)
+## Accuracy
+![alt text](output/accuracy.png)
+## Confusion Matrix
+![alt text](output/classification.png)
+## Classification Report
+![alt text](output/confusionmatrix.png)
 
 
 ## Result:
