@@ -62,17 +62,16 @@ accuracy
 ```
 ## Output:
 ## Dataset:
-![alt text](output/Dataset.png)
+![image](https://github.com/user-attachments/assets/8f9468c0-2aa3-4be2-a4db-3b630eba0a4f)
+
 ## Train_Test:
-![alt text](output/train_test.png)
+![image](https://github.com/user-attachments/assets/0ffef276-0c91-4bf7-973f-fc2aca4dbae3)
+
 ## y_pred
-![alt text](output/y_pred.png)
+![image](https://github.com/user-attachments/assets/9923a09d-49aa-45ec-9587-f928920cbac9)
+
 ## Accuracy
-![alt text](output/accuracy.png)
-## Confusion Matrix
-![alt text](output/classification.png)
-## Classification Report
-![alt text](output/confusionmatrix.png)
+![image](https://github.com/user-attachments/assets/b4769022-f53e-4c9a-8c5c-c730b010d6df)
 
 
 ## Result:
